@@ -11,12 +11,12 @@ This whole repo consists of a developed full Machine Learning model to predict C
 # Final
 [(Back to top)](#CTR-prediction)
 
-This is the [final version](https://github.com/aurimas13/CTR-prediction/blob/main/CTR_prediction_final.ipynb) of CTR prediction ML model. It provides Data collection, Explaratory Data Analysis, Data Cleaning, Modelling with Random Forest Classifier, XGB Classifier and a Conclusion.
+This is the [final version](https://github.com/aurimas13/CTR-prediction/blob/main/CTR_prediction_final.ipynb) of CTR prediction ML model. It provides Data collection, Exploratory Data Analysis, Data Cleaning, Modelling with Random Forest Classifier, XGB Classifier and a Conclusion.
 
 # Trial
 [(Back to top)](#CTR-prediction)
 
-This it the [trial version](https://github.com/aurimas13/CTR-prediction/blob/main/CTR_prediction.ipynb) of CTR presidction ML model. It provides Data collection, Explaratory Data Analysis, Data Cleaning, Modelling with Decision Tree Classifier, Random Forest Classifier, XGB Classifier followed by Adam Optimization, SGDC Classifier and Logistic Regression tryouts.
+This it the [trial version](https://github.com/aurimas13/CTR-prediction/blob/main/CTR_prediction.ipynb) of CTR presidction ML model. It provides Data collection, Exploratory Data Analysis, Data Cleaning, Modelling with Decision Tree Classifier, Random Forest Classifier, XGB Classifier followed by Adam Optimization, SGDC Classifier and Logistic Regression tryouts.
 
 # License
 
