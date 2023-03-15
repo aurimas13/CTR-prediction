@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="300px" src="https://github.com/aurimas13/CTR-prediction/blob/main/images/CTR.jpg"/>
+  <img height="300px" src="https://github.com/aurimas13/CTR-prediction/blob/main/public/images/CTR.jpg"/>
 </p>
 
 <p align="center" > <b> CTR prediction </b> </p>
